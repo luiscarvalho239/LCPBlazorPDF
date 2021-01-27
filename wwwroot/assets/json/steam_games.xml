@@ -1,0 +1,2202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profile>
+  <games>
+    <game>
+      <id>550</id>
+      <source>PackageNormal</source>
+      <name>Left 4 Dead 2</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>9480</id>
+      <source>PackageNormal</source>
+      <name>Saints Row 2</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>11390</id>
+      <source>PackageNormal</source>
+      <name>Crash Time II</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>63380</id>
+      <source>PackageNormal</source>
+      <name>Sniper Elite V2</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>71230</id>
+      <source>PackageNormal</source>
+      <name>Crazy Taxi</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>236830</id>
+      <source>PackageNormal</source>
+      <name>Red Orchestra 2: Heroes of Stalingrad - Single Player</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>261820</id>
+      <source>WebProfile</source>
+      <name>Estranged: Act I</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>263060</id>
+      <source>PackageNormal</source>
+      <name>Blockstorm</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>285160</id>
+      <source>PackageNormal</source>
+      <name>LEGO® The Hobbit™</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>295550</id>
+      <source>PackageNormal</source>
+      <name>Royal Quest</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>346900</id>
+      <source>PackageFree</source>
+      <name>AdVenture Capitalist</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>42120</id>
+      <source>PackageNormal</source>
+      <name>Lead and Gold - Gangs of the Wild West</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>46410</id>
+      <source>PackageNormal</source>
+      <name>Avencast</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>43110</id>
+      <source>PackageNormal</source>
+      <name>Metro 2033</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>42500</id>
+      <source>PackageNormal</source>
+      <name>DogFighter</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>50300</id>
+      <source>PackageNormal</source>
+      <name>Spec Ops: The Line</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>55100</id>
+      <source>PackageNormal</source>
+      <name>Homefront</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>92800</id>
+      <source>PackageNormal</source>
+      <name>SpaceChem</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>70000</id>
+      <source>PackageNormal</source>
+      <name>Dino D-Day</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>22610</id>
+      <source>PackageNormal</source>
+      <name>Alien Breed: Impact</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>7760</id>
+      <source>PackageNormal</source>
+      <name>X-COM: UFO Defense</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>55150</id>
+      <source>PackageNormal</source>
+      <name>Warhammer 40,000: Space Marine</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>3830</id>
+      <source>PackageNormal</source>
+      <name>Psychonauts</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>70640</id>
+      <source>PackageNormal</source>
+      <name>Worms</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>201570</id>
+      <source>PackageNormal</source>
+      <name>Really Big Sky</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>202200</id>
+      <source>PackageNormal</source>
+      <name>Galactic Civilizations II: Ultimate Edition</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>67370</id>
+      <source>PackageNormal</source>
+      <name>The Darkness II</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>37400</id>
+      <source>PackageNormal</source>
+      <name>Time Gentlemen, Please!</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>37420</id>
+      <source>PackageNormal</source>
+      <name>Ben There, Dan That!</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>201700</id>
+      <source>PackageNormal</source>
+      <name>DiRT Showdown</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>207610</id>
+      <source>PackageNormal</source>
+      <name>The Walking Dead</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>12750</id>
+      <source>PackageNormal</source>
+      <name>GRID</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>214150</id>
+      <source>PackageNormal</source>
+      <name>Galactic Civilizations I: Ultimate Edition</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>209080</id>
+      <source>PackageNormal</source>
+      <name>Guns of Icarus Online</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>11450</id>
+      <source>PackageNormal</source>
+      <name>Overlord</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>7510</id>
+      <source>PackageNormal</source>
+      <name>X-Blades</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>57690</id>
+      <source>PackageNormal</source>
+      <name>Tropico 4</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>218740</id>
+      <source>PackageNormal</source>
+      <name>Pid </name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>219950</id>
+      <source>PackageNormal</source>
+      <name>NiGHTS into Dreams...</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>1930</id>
+      <source>PackageNormal</source>
+      <name>Two Worlds: Epic Edition</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>214510</id>
+      <source>PackageNormal</source>
+      <name>LEGO® The Lord of the Rings™</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>226120</id>
+      <source>PackageNormal</source>
+      <name>Weird Worlds: Return to Infinite Space</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>202090</id>
+      <source>PackageFree</source>
+      <name>Magicka: Wizard Wars</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>226320</id>
+      <source>PackageFree</source>
+      <name>Marvel Heroes Omega</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>225260</id>
+      <source>PackageNormal</source>
+      <name>Brütal Legend</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>44350</id>
+      <source>PackageNormal</source>
+      <name>GRID 2</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>210770</id>
+      <source>PackageNormal</source>
+      <name>Sanctum 2</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>3910</id>
+      <source>PackageNormal</source>
+      <name>Sid Meiers Civilization III: Complete</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>234650</id>
+      <source>PackageNormal</source>
+      <name>Shadowrun Returns</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>35450</id>
+      <source>PackageNormal</source>
+      <name>Rising Storm/Red Orchestra 2 Multiplayer</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>235720</id>
+      <source>PackageNormal</source>
+      <name>Cubetractor</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>224420</id>
+      <source>PackageNormal</source>
+      <name>Afterfall InSanity Extended Edition</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>233250</id>
+      <source>PackageNormal</source>
+      <name>Planetary Annihilation</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>239450</id>
+      <source>PackageNormal</source>
+      <name>Gun Monkeys</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>244590</id>
+      <source>PackageNormal</source>
+      <name>Epigenesis</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>248550</id>
+      <source>PackageNormal</source>
+      <name>Megabyte Punch</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>253900</id>
+      <source>PackageNormal</source>
+      <name>Knights and Merchants</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>253980</id>
+      <source>PackageNormal</source>
+      <name>Enclave</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>254020</id>
+      <source>PackageNormal</source>
+      <name>Commander: Conquest of the Americas Gold</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>243000</id>
+      <source>PackageNormal</source>
+      <name>Omikron - The Nomad Soul</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>238910</id>
+      <source>PackageNormal</source>
+      <name>Bionic Dues</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>233130</id>
+      <source>PackageNormal</source>
+      <name>Shadow Warrior</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>255520</id>
+      <source>PackageNormal</source>
+      <name>Viscera Cleanup Detail: Shadow Warrior</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>257890</id>
+      <source>PackageNormal</source>
+      <name>Frozen Hearth</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>258200</id>
+      <source>PackageNormal</source>
+      <name>Talisman: Prologue</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>262280</id>
+      <source>PackageNormal</source>
+      <name>Dungeons 2</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>226840</id>
+      <source>PackageNormal</source>
+      <name>Age of Wonders III</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>267940</id>
+      <source>PackageNormal</source>
+      <name>Glacier 3: The Meltdown</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>267960</id>
+      <source>PackageNormal</source>
+      <name>Hyper Fighters</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>268240</id>
+      <source>PackageNormal</source>
+      <name>Mechanic Escape</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>268870</id>
+      <source>PackageNormal</source>
+      <name>Satellite Reign</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>271570</id>
+      <source>PackageNormal</source>
+      <name>Space Farmers</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>273770</id>
+      <source>PackageNormal</source>
+      <name>Game Tycoon 1.5</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>274900</id>
+      <source>PackageNormal</source>
+      <name>Murder Miners</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>275470</id>
+      <source>PackageNormal</source>
+      <name>Chip</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>225840</id>
+      <source>PackageFree</source>
+      <name>Sven Co-op</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>278360</id>
+      <source>PackageNormal</source>
+      <name>A Story About My Uncle</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>278460</id>
+      <source>PackageNormal</source>
+      <name>Skyborn</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>278490</id>
+      <source>PackageNormal</source>
+      <name>Aveyond 3-2: Gates of Night</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>283290</id>
+      <source>PackageNormal</source>
+      <name>Nosferatu: The Wrath of Malachi</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>283310</id>
+      <source>PackageNormal</source>
+      <name>Soulbringer</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>283330</id>
+      <source>PackageNormal</source>
+      <name>Desert Thunder</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>283350</id>
+      <source>PackageNormal</source>
+      <name>Eurofighter Typhoon</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>283390</id>
+      <source>PackageNormal</source>
+      <name>Incoming Forces</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>283430</id>
+      <source>PackageNormal</source>
+      <name>Litil Divil</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>284930</id>
+      <source>PackageNormal</source>
+      <name>Speed Kills</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>285010</id>
+      <source>PackageNormal</source>
+      <name>Pixel Puzzles: UndeadZ</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>351030</id>
+      <source>PackageNormal</source>
+      <name>Pixel Puzzles Ultimate</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>285090</id>
+      <source>PackageNormal</source>
+      <name>Robowars</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>285840</id>
+      <source>PackageNormal</source>
+      <name>Enemy Mind</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>286440</id>
+      <source>PackageNormal</source>
+      <name>Rover Rescue</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>286570</id>
+      <source>PackageNormal</source>
+      <name>F1 2015</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>287100</id>
+      <source>PackageNormal</source>
+      <name>Chaos Domain</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>289090</id>
+      <source>PackageNormal</source>
+      <name>Ampu-Tea</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>292370</id>
+      <source>PackageNormal</source>
+      <name>DarkEnd</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>292380</id>
+      <source>PackageNormal</source>
+      <name>Racer 8</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>292390</id>
+      <source>PackageNormal</source>
+      <name>Realms of the Haunting</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>292410</id>
+      <source>PackageNormal</source>
+      <name>Street Racing Syndicate</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>292570</id>
+      <source>PackageNormal</source>
+      <name>Chompy Chomp Chomp</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>292620</id>
+      <source>PackageNormal</source>
+      <name>Pressured</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>292630</id>
+      <source>PackageNormal</source>
+      <name>Uriels Chasm</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>292910</id>
+      <source>PackageNormal</source>
+      <name>Deponia: The Complete Journey</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>293180</id>
+      <source>PackageNormal</source>
+      <name>Overcast - Walden and the Werewolf</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>293840</id>
+      <source>PackageNormal</source>
+      <name>Cult of the Wind</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>294020</id>
+      <source>PackageNormal</source>
+      <name>Merchants of Kaidan</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>296910</id>
+      <source>PackageNormal</source>
+      <name>8BitBoy</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>297020</id>
+      <source>PackageNormal</source>
+      <name>The Culling Of The Cows</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>298600</id>
+      <source>PackageNormal</source>
+      <name>Lovely Planet</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>299460</id>
+      <source>PackageNormal</source>
+      <name>Woodle Tree Adventures</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>299500</id>
+      <source>PackageNormal</source>
+      <name>International Snooker</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>301690</id>
+      <source>PackageNormal</source>
+      <name>Cobi Treasure Deluxe</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>301700</id>
+      <source>PackageNormal</source>
+      <name>Numba Deluxe</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>302010</id>
+      <source>PackageNormal</source>
+      <name>The Blue Flamingo</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>306350</id>
+      <source>PackageNormal</source>
+      <name>Slipstream 5000</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>8600</id>
+      <source>PackageNormal</source>
+      <name>RACE 07</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>8660</id>
+      <source>PackageNormal</source>
+      <name>GTR Evolution</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>211500</id>
+      <source>PackageNormal</source>
+      <name>RaceRoom Racing Experience </name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>307070</id>
+      <source>PackageNormal</source>
+      <name>Memories of a Vagabond</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>307350</id>
+      <source>PackageNormal</source>
+      <name>Nux</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>308580</id>
+      <source>PackageNormal</source>
+      <name>Orborun</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>310450</id>
+      <source>PackageNormal</source>
+      <name>Steel &amp; Steam: Episode 1</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>310560</id>
+      <source>PackageNormal</source>
+      <name>DiRT Rally</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>311480</id>
+      <source>PackageNormal</source>
+      <name>Vertical Drop Heroes HD</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>312640</id>
+      <source>PackageNormal</source>
+      <name>Power-Up</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>313020</id>
+      <source>PackageNormal</source>
+      <name>Soul Gambler</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>265590</id>
+      <source>PackageNormal</source>
+      <name>The Red Solstice</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>315260</id>
+      <source>PackageNormal</source>
+      <name>Space Hack</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>315330</id>
+      <source>PackageNormal</source>
+      <name>All Guns On Deck</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>317380</id>
+      <source>PackageNormal</source>
+      <name>War on Folvos</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>318600</id>
+      <source>PackageNormal</source>
+      <name>The Flame in the Flood</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>319180</id>
+      <source>PackageNormal</source>
+      <name>Platypus II</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>321040</id>
+      <source>PackageNormal</source>
+      <name>DiRT 3 Complete Edition</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>321400</id>
+      <source>PackageNormal</source>
+      <name>Supraball</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>329380</id>
+      <source>PackageNormal</source>
+      <name>Stealth Inc 2</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>331710</id>
+      <source>PackageNormal</source>
+      <name>Why So Evil</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>354850</id>
+      <source>PackageNormal</source>
+      <name>Why So Evil 2: Dystopia</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>368900</id>
+      <source>PackageNormal</source>
+      <name>Brilliant Bob</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>432150</id>
+      <source>PackageNormal</source>
+      <name>They Came From The Moon</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>335430</id>
+      <source>PackageNormal</source>
+      <name>Grimoire: Manastorm</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>277950</id>
+      <source>PackageNormal</source>
+      <name>Deadbreed®</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>339160</id>
+      <source>PackageNormal</source>
+      <name>Tales of the Orient: The Rising Sun</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>2400</id>
+      <source>PackageNormal</source>
+      <name>The Ship</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>2420</id>
+      <source>PackageNormal</source>
+      <name>The Ship Single Player</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>2430</id>
+      <source>PackageNormal</source>
+      <name>The Ship Tutorial</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>343360</id>
+      <source>PackageNormal</source>
+      <name>Particula</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>345220</id>
+      <source>PackageNormal</source>
+      <name>Agent Awesome</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>346950</id>
+      <source>PackageNormal</source>
+      <name>The Dark Stone from Mebara</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>351470</id>
+      <source>PackageNormal</source>
+      <name>Sometimes: Success Requires Sacrifice</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>350810</id>
+      <source>PackageNormal</source>
+      <name>Pixel Puzzles 2: Anime</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>363620</id>
+      <source>PackageNormal</source>
+      <name>Tea Party Simulator 2015™</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>364690</id>
+      <source>PackageNormal</source>
+      <name>SUPER DISTRO</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>397620</id>
+      <source>PackageNormal</source>
+      <name>GooCubelets</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>370310</id>
+      <source>PackageNormal</source>
+      <name>Tompi Jones</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>371140</id>
+      <source>PackageNormal</source>
+      <name>Aegis Defenders</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>371390</id>
+      <source>PackageNormal</source>
+      <name>Flix The Flea</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>371690</id>
+      <source>PackageNormal</source>
+      <name>Pixel Space</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>375460</id>
+      <source>PackageNormal</source>
+      <name>16bit Trader</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>378100</id>
+      <source>PackageNormal</source>
+      <name>Nyctophobia</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>382120</id>
+      <source>PackageNormal</source>
+      <name>Journey To The Center Of The Earth</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>382240</id>
+      <source>PackageNormal</source>
+      <name>Blood of Old (OLD VERSION)</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>596440</id>
+      <source>PackageNormal</source>
+      <name>Blood of Old - The Rise To Greatness</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>385200</id>
+      <source>PackageNormal</source>
+      <name>Absconding Zatwor</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>395980</id>
+      <source>PackageNormal</source>
+      <name>Break Into Zatwor</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>410590</id>
+      <source>PackageNormal</source>
+      <name>Fiends of Imprisonment</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>386360</id>
+      <source>PackageFree</source>
+      <name>SMITE</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>858460</id>
+      <source>PackageFree</source>
+      <name>SMITE - Public Test</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>382490</id>
+      <source>PackageNormal</source>
+      <name>Relic Hunters Zero</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>416270</id>
+      <source>PackageNormal</source>
+      <name>GooCubelets 2</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>431270</id>
+      <source>PackageNormal</source>
+      <name>GooCubelets: The Algoorithm</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>398710</id>
+      <source>PackageNormal</source>
+      <name>Timberman</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>399700</id>
+      <source>PackageNormal</source>
+      <name>Désiré</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>400240</id>
+      <source>PackageNormal</source>
+      <name>The Deer</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>400370</id>
+      <source>PackageNormal</source>
+      <name>Normality</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>365450</id>
+      <source>PackageNormal</source>
+      <name>Hacknet</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>57300</id>
+      <source>PackageNormal</source>
+      <name>Amnesia: The Dark Descent</name>
+      <hidden>true</hidden>
+      <categories />
+    </game>
+    <game>
+      <id>15700</id>
+      <source>PackageNormal</source>
+      <name>Oddworld: Abe's Oddysee</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>405950</id>
+      <source>PackageNormal</source>
+      <name>Lowglow</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>272890</id>
+      <source>PackageNormal</source>
+      <name>Vertiginous Golf</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>460660</id>
+      <source>PackageNormal</source>
+      <name>GooCubelets: OCD</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>424830</id>
+      <source>PackageNormal</source>
+      <name>Bell Ringer</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>428430</id>
+      <source>PackageNormal</source>
+      <name>Endorlight</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>34270</id>
+      <source>PackageNormal</source>
+      <name>SEGA Mega Drive &amp; Genesis Classics</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>205230</id>
+      <source>PackageNormal</source>
+      <name>Hell Yeah!</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>205950</id>
+      <source>PackageNormal</source>
+      <name>Jet Set Radio</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>4720</id>
+      <source>PackageNormal</source>
+      <name>Condemned: Criminal Origins</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>203750</id>
+      <source>PackageNormal</source>
+      <name>Binary Domain</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>99300</id>
+      <source>PackageNormal</source>
+      <name>Renegade Ops</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>211160</id>
+      <source>PackageNormal</source>
+      <name>Viking: Battle for Asgard</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>447880</id>
+      <source>PackageNormal</source>
+      <name>Beast Blaster</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>462370</id>
+      <source>PackageNormal</source>
+      <name>Cyborg Detonator</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>516700</id>
+      <source>PackageNormal</source>
+      <name>Zombie Boom</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>449630</id>
+      <source>PackageNormal</source>
+      <name>Rage Parking Simulator 2016</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>453980</id>
+      <source>PackageNormal</source>
+      <name>Airstrike HD</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>370770</id>
+      <source>PackageNormal</source>
+      <name>Holodrive</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>461910</id>
+      <source>PackageFree</source>
+      <name>Forge of Gods (RPG)</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>485310</id>
+      <source>PackageNormal</source>
+      <name>Head Shot</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>48000</id>
+      <source>PackageNormal</source>
+      <name>LIMBO</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>491950</id>
+      <source>PackageNormal</source>
+      <name>Orwell</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>504460</id>
+      <source>PackageNormal</source>
+      <name>Team Racing League</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>319630</id>
+      <source>PackageFree</source>
+      <name>Life is Strange™</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>505440</id>
+      <source>PackageNormal</source>
+      <name>GooCubelets: The Void</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>397060</id>
+      <source>PackageNormal</source>
+      <name>Faeria</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>489520</id>
+      <source>PackageNormal</source>
+      <name>Minion Masters</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>546400</id>
+      <source>PackageNormal</source>
+      <name>Cavern Escape</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>546450</id>
+      <source>PackageNormal</source>
+      <name>North Side</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>556280</id>
+      <source>PackageNormal</source>
+      <name>Neon Prism</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>507490</id>
+      <source>PackageNormal</source>
+      <name>Ashes of the Singularity: Escalation</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>562270</id>
+      <source>PackageNormal</source>
+      <name>Shot Shot Tactic</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>567090</id>
+      <source>PackageFree</source>
+      <name>8-Bit Bayonetta</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>575490</id>
+      <source>PackageNormal</source>
+      <name>Lets Draw</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>463150</id>
+      <source>PackageNormal</source>
+      <name>BARRIER X</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>581620</id>
+      <source>PackageNormal</source>
+      <name>Bold New World</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>208140</id>
+      <source>PackageNormal</source>
+      <name>Endless Space® - Definitive Edition</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>585580</id>
+      <source>PackageNormal</source>
+      <name>The Safeguard Garrison</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>227220</id>
+      <source>PackageFree</source>
+      <name>Sang-Froid - Tales of Werewolves</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>601510</id>
+      <source>PackageFree</source>
+      <name>Yu-Gi-Oh! Duel Links</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>607270</id>
+      <source>PackageNormal</source>
+      <name>Jacks Gang</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>608800</id>
+      <source>PackageNormal</source>
+      <name>Guns of Icarus Alliance</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>219640</id>
+      <source>PackageNormal</source>
+      <name>Chivalry: Medieval Warfare</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>236150</id>
+      <source>PackageNormal</source>
+      <name>Starpoint Gemini 2</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>305050</id>
+      <source>PackageNormal</source>
+      <name>Outland</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>218620</id>
+      <source>PackageNormal</source>
+      <name>PAYDAY 2</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>323580</id>
+      <source>PackageNormal</source>
+      <name>Jotun: Valhalla Edition</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>22350</id>
+      <source>PackageFree</source>
+      <name>BRINK</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>38400</id>
+      <source>PackageNormal</source>
+      <name>Fallout</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>231430</id>
+      <source>PackageNormal</source>
+      <name>Company of Heroes 2</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>368230</id>
+      <source>PackageNormal</source>
+      <name>Kingdom: Classic</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>203770</id>
+      <source>PackageNormal</source>
+      <name>Crusader Kings II</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>232050</id>
+      <source>PackageNormal</source>
+      <name>Eador. Masters of the Broken World</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>439190</id>
+      <source>PackageNormal</source>
+      <name>Stories: The Path of Destinies</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>13250</id>
+      <source>PackageNormal</source>
+      <name>Unreal Gold</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>334210</id>
+      <source>PackageNormal</source>
+      <name>Fortified</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>737800</id>
+      <source>PackageNormal</source>
+      <name>F1 2018</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>222880</id>
+      <source>PackageNormal</source>
+      <name>Insurgency</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>973000</id>
+      <source>PackageFree</source>
+      <name>Die Young: Prologue</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>649190</id>
+      <source>PackageNormal</source>
+      <name>Blast Zone! Tournament</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>285800</id>
+      <source>PackageNormal</source>
+      <name>Braveland</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>275390</id>
+      <source>PackageNormal</source>
+      <name>Guacamelee! Super Turbo Championship Edition</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>203160</id>
+      <source>PackageNormal</source>
+      <name>Tomb Raider</name>
+      <hidden>false</hidden>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>289690</id>
+      <source>PackageNormal</source>
+      <name>Lara Croft and the Temple of Osiris</name>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>1286830</id>
+      <source>PackageNormal</source>
+      <name>STAR WARS™: The Old Republic™</name>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>640590</id>
+      <source>PackageNormal</source>
+      <name>The LEGO® NINJAGO® Movie Video Game</name>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>406970</id>
+      <source>PackageNormal</source>
+      <name>The Uncertain: Last Quiet Day</name>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>242700</id>
+      <source>PackageNormal</source>
+      <name>Injustice: Gods Among Us Ultimate Edition</name>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+    <game>
+      <id>532210</id>
+      <source>PackageNormal</source>
+      <name>Life is Strange 2</name>
+      <categories>
+        <category>Steam Games</category>
+      </categories>
+    </game>
+  </games>
+</profile>

@@ -1,0 +1,27 @@
+﻿@page "/"
+@using BlazorPDF.Data
+@inject IJSRuntime js
+
+<h1>Blazor Generating PDF</h1>
+<button class="btn btn-primary" @onclick='GenerateStudentPDFFile'>Generate Students PDF</button>
+<button class="btn btn-primary" @onclick='GenerateGamePDFFile'>Generate Game PDF</button>
+
+<div class="d-block w-100 mt-3">
+    <div class="embed-responsive embed-responsive-16by9">
+        <embed src="assets/pdf/GamesList.pdf" class="embed-responsive-item" />
+    </div>
+</div>
+
+@code {
+    private void GenerateStudentPDFFile()
+    {
+        Student student = new Student();
+        student.GeneratePDF(js);
+    }
+
+    private void GenerateGamePDFFile()
+    {
+        Game game = new Game();
+        game.GeneratePDF(js);
+    }
+}
